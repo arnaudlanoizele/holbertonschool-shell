@@ -1,5 +1,4 @@
-[main 9260e7e] My two readme
- 4 files changed, 8 insertions(+)
- create mode 100644 basics/REAME.md
- create mode 100644 tmp/head
- create mode 100644 tmp/wc
+[main 44c33fb] My two readme
+ 3 files changed, 6 insertions(+), 4 deletions(-)
+ mode change 100644 => 100755 basics/0-current_working_directory
+ delete mode 100644 basics/REAME.md
