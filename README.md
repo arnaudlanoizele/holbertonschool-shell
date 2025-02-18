@@ -1,1 +1,1 @@
-My first readme
+Shell, ini files, variables and expansions
