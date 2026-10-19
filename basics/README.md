@@ -6,3 +6,4 @@ The command pwd prints the absolute path of the current working directory.
 5-listfilesdigitonly: Display current directory contents, hidden file, long format and id numerically.
 6-firstdirectory: Create a script that creates a directory named... in the tmp directory.
 7-movethatfile: Move the file betty from /tmp/ to /tmp/my_first_directory.
+8-firstdelete: Delete the file betty is in /tmp/my_first_directory.
