@@ -11,3 +11,4 @@ The command pwd prints the absolute path of the current working directory.
 10-back: A script that changes the working directory to the previous oune.
 11-lists: Lists all files, including hidden files, in the current directory, its parent directory, and /boot, in this order, using the long format.
 12-file_type: Print the type of the file /tmp/iamafile.
+13-symbolic_link: Create a symbolic link to /bin/ls named __ls__.
