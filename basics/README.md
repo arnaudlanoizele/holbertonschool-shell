@@ -13,3 +13,4 @@ The command pwd prints the absolute path of the current working directory.
 - 12-file_type: Print the type of the file /tmp/iamafile.
 - 13-symbolic_link: Create a symbolic link to /bin/ls named __ls__.
 - 14-copy_html: Copies HTML file from the current directory to its parent, only if they are missing or the source files are newer.
+- 15-lets_move: A script that moves all files beginning with an uppercase letter to the directory /tmp/u.
