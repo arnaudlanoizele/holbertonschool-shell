@@ -12,3 +12,4 @@ The command pwd prints the absolute path of the current working directory.
 11-lists: Lists all files, including hidden files, in the current directory, its parent directory, and /boot, in this order, using the long format.
 12-file_type: Print the type of the file /tmp/iamafile.
 13-symbolic_link: Create a symbolic link to /bin/ls named __ls__.
+14-copy_html: Copies HTML file from the current directory to its parent, only if they are missing or the source files are newer.
