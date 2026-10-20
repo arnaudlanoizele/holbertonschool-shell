@@ -9,3 +9,4 @@
 - 8-James_Bond: A script that sets the permission to the file hello as follows: O0;G0;Oall.
 - 9-John_Doe: A script that sets the mode of the file hello.
 - 10-mirror_permissions: Z script that sets the mode of the file hello the same as olleh's mode.
+- 12-directory_permissions: A script that creates a directory called my_dir with permissions 751 in the working directory.
