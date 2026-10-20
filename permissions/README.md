@@ -8,3 +8,4 @@
 - 7-everybody: A script that adds executtion permission to the owner, the group owner and the other users to the file hello.
 - 8-James_Bond: A script that sets the permission to the file hello as follows: O0;G0;Oall.
 - 9-John_Doe: A script that sets the mode of the file hello.
+- 10-mirror_permissions: Z script that sets the mode of the file hello the same as olleh's mode.
