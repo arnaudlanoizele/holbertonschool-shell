@@ -14,4 +14,4 @@
 - 13-print_float: A script that prints a number with two decimal places, followed by a new line.
 - 14-decimal_to_hexadecimal: A script that converts a number from base 10 to base 16.
 
-printf '%d' | {a..z}{a..z} | grep -v '^(oo$)'
+printf '%.2f\n' "$num"
